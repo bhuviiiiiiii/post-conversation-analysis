@@ -446,7 +446,7 @@ MIT License - see LICENSE file for details
 
 ## 👤 Author
 
-Your Name / GitHub Username
+Bhuvnesh Choudhary / bhuviiiiiiii
 
 ## 🤝 Contributing
 
